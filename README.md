@@ -5,3 +5,5 @@ Create an Azure Ubuntu 20.04 LTS VM with ARM template and interactive Bash shell
 
 ![](https://github.com/osygroup/Images/blob/main/VM-ARM/2.JPG)
 
+![](https://github.com/osygroup/Images/blob/main/VM-ARM/3.JPG)
+
