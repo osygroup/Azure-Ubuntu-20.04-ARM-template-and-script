@@ -11,8 +11,11 @@ The parameters can be edited as variables to suite an organization’s preferenc
 ![](https://github.com/osygroup/Images/blob/main/VM-ARM/3.JPG)
 
 ## Basics
+
 Resource group: <VM_name>
+
 Virtual machine name: <VM_name>
+
 Region: East US
 Availability options: Availability zone
 Availability zone: 1
