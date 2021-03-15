@@ -1,7 +1,9 @@
 # Azure-Ubuntu-20.04-ARM-template-and-script
 
 Azure Resource Manager templates (ARM templates) allow you to specify your project's infrastructure in a declarative and reusable way.
+
 This template creates an Ubuntu 20.04 LTS - Gen 1 virtual using Azure-CLI in an interactive Bash shell script. The virtual machine created with this script uses a password for authentication, not SSH key. The Bash script validates the password to meet the password complexity requirement of Azure virtual machines.
+
 The parameters can be edited as variables to suite an organization’s preference.
 
 ![](https://github.com/osygroup/Images/blob/main/VM-ARM/1.JPG)
